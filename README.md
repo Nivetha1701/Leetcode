@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Nivetha1701/Leetcode/tree/master/0175-combine-two-tables) |
 | [0626-exchange-seats](https://github.com/Nivetha1701/Leetcode/tree/master/0626-exchange-seats) |
 | [1317-monthly-transactions-i](https://github.com/Nivetha1701/Leetcode/tree/master/1317-monthly-transactions-i) |
 ## Stack
