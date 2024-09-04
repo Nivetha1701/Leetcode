@@ -7,9 +7,10 @@ class Solution {
             if(nums[i]==target)
             {
                 index=i;
-                break;
+                // break;
+                return index;
             }
         }
-        return index;
+        return -1;
     }
 }
