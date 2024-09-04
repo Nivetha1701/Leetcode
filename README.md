@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Nivetha1701/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Nivetha1701/Leetcode/tree/master/0066-plus-one) |
+| [0792-binary-search](https://github.com/Nivetha1701/Leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nivetha1701/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Nivetha1701/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
