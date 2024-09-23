@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Nivetha1701/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Nivetha1701/Leetcode/tree/master/0066-plus-one) |
+| [0164-maximum-gap](https://github.com/Nivetha1701/Leetcode/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nivetha1701/Leetcode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Nivetha1701/Leetcode/tree/master/0792-binary-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Nivetha1701/Leetcode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Nivetha1701/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0898-transpose-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Nivetha1701/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Nivetha1701/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
