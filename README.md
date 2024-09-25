@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Nivetha1701/Leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Nivetha1701/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Nivetha1701/Leetcode/tree/master/0066-plus-one) |
 | [0164-maximum-gap](https://github.com/Nivetha1701/Leetcode/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Nivetha1701/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nivetha1701/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nivetha1701/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
