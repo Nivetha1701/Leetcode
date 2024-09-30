@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nivetha1701/Leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nivetha1701/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Nivetha1701/Leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0948-sort-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nivetha1701/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Nivetha1701/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Nivetha1701/Leetcode/tree/master/0344-reverse-string) |
+| [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Nivetha1701/Leetcode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Nivetha1701/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0948-sort-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0948-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nivetha1701/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Nivetha1701/Leetcode/tree/master/0792-binary-search) |
 ## Matrix
 |  |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nivetha1701/Leetcode/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Sliding Window
 |  |
 | ------- |
