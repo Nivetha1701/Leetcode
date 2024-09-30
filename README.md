@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nivetha1701/Leetcode/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nivetha1701/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Nivetha1701/Leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0898-transpose-matrix) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Nivetha1701/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Nivetha1701/Leetcode/tree/master/0792-binary-search) |
 ## Matrix
 |  |
