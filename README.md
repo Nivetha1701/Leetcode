@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nivetha1701/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2083-three-divisors](https://github.com/Nivetha1701/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Nivetha1701/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Nivetha1701/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Nivetha1701/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## String
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2083-three-divisors](https://github.com/Nivetha1701/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Nivetha1701/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Nivetha1701/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nivetha1701/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
