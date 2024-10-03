@@ -12,7 +12,7 @@ class Solution {
     public ListNode swapNodes(ListNode head, int k) {
    
         ListNode first = head, second = head,temp=head;
-        int size=1;
+        int size=0;
         while(temp!=null)
         {
             temp=temp.next;
@@ -22,7 +22,7 @@ class Solution {
         {
             first=first.next;  
         }
-        for(int i=1;i<(size-k);i++)
+        for(int i=1;i<=(size-k);i++)
         {
             second=second.next;
         }
