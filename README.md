@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Nivetha1701/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Nivetha1701/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nivetha1701/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1013-fibonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1013-fibonacci-number) |
 | [2083-three-divisors](https://github.com/Nivetha1701/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Nivetha1701/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nivetha1701/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nivetha1701/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Nivetha1701/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -213,4 +215,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Nivetha1701/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nivetha1701/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Nivetha1701/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
