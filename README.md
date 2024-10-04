@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nivetha1701/Leetcode/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nivetha1701/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Nivetha1701/Leetcode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Nivetha1701/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Nivetha1701/Leetcode/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Nivetha1701/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nivetha1701/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nivetha1701/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Nivetha1701/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nivetha1701/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
