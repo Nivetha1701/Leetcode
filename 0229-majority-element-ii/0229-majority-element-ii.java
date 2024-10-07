@@ -7,7 +7,7 @@ class Solution {
        
         int count=1;
         int max=n/3;
-        
+
         for(int i=1;i<nums.length;i++)
         {
             if(nums[i]==nums[i-1])
