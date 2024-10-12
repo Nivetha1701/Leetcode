@@ -263,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Nivetha1701/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Nivetha1701/Leetcode/tree/master/1086-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
