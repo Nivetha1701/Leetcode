@@ -12,11 +12,9 @@ class Solution {
             merged[k++]=nums2[j];
         }
         Arrays.sort(merged);
-
         for(int i=0;i<merged.length;i++)
         {
             nums1[i]=merged[i];
-        }
-        
+        }   
     }
 }
