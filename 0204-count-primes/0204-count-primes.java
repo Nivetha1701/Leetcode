@@ -4,22 +4,22 @@ class Solution {
         {
             return 0;
         }
-        boolean prime[]=new boolean[n];
-        Arrays.fill(prime,true);
+        boolean isPrime[]=new boolean[n];
+        Arrays.fill(isPrime,true);
         for(int i=2;i*i<n;i++)
         {
-            if(prime[i])
+            if(isPrime[i])
             {
                 for(int j=i*i;j<n;j+=i)
                 {
-                    prime[j]=false;
+                    isPrime[j]=false;
                 }
             }
         }
         int count=0;
         for(int i=2;i<n;i++)
         {
-            if(prime[i])
+            if(isPrime[i])
             {
                 count++;
             }
