@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Nivetha1701/Leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Nivetha1701/Leetcode/tree/master/1086-divisor-game) |
+| [1610-xor-operation-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2083-three-divisors](https://github.com/Nivetha1701/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Nivetha1701/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nivetha1701/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Nivetha1701/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Nivetha1701/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nivetha1701/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1610-xor-operation-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
