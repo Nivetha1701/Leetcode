@@ -25,7 +25,7 @@ class Solution {
         }
         else 
         {
-            return ans[mid];
+            return (double)ans[mid];
         }
     }
 }
