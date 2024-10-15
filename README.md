@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nivetha1701/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Nivetha1701/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Nivetha1701/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Nivetha1701/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Nivetha1701/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Nivetha1701/Leetcode/tree/master/0292-nim-game) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Nivetha1701/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Nivetha1701/Leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Nivetha1701/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Nivetha1701/Leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nivetha1701/Leetcode/tree/master/0204-count-primes) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2083-three-divisors](https://github.com/Nivetha1701/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Nivetha1701/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nivetha1701/Leetcode/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/Nivetha1701/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Nivetha1701/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Linked List
