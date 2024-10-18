@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nivetha1701/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2122-count-special-quadruplets](https://github.com/Nivetha1701/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Nivetha1701/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nivetha1701/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Nivetha1701/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nivetha1701/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/Nivetha1701/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2122-count-special-quadruplets](https://github.com/Nivetha1701/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nivetha1701/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/Nivetha1701/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nivetha1701/Leetcode/tree/master/0204-count-primes) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2083-three-divisors](https://github.com/Nivetha1701/Leetcode/tree/master/2083-three-divisors) |
+| [2122-count-special-quadruplets](https://github.com/Nivetha1701/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2507-number-of-common-factors](https://github.com/Nivetha1701/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nivetha1701/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nivetha1701/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
