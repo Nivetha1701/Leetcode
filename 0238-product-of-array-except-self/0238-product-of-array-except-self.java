@@ -1,5 +1,6 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
+        
         int n=nums.length;
         int ans[]=new int[n];
         int p[]=new int[n];
@@ -20,5 +21,6 @@ class Solution {
             ans[i]=p[i]*s[i];
         }
         return ans;
+
     }
 }
