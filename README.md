@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Nivetha1701/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Nivetha1701/Leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0898-transpose-matrix) |
+| [0932-monotonic-array](https://github.com/Nivetha1701/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0948-sort-an-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nivetha1701/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
