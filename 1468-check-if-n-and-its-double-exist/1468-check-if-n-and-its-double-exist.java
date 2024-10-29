@@ -6,10 +6,7 @@ class Solution {
             {
                 if(i!=j && arr[i]==2*arr[j])
                 {
-                    // if(0<=i && j<arr.length)
-                    // {
-                        return true;
-                    // }
+                    return true;
                 }
             }
         }
