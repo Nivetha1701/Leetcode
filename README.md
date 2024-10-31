@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Nivetha1701/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Nivetha1701/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Nivetha1701/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nivetha1701/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/Nivetha1701/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nivetha1701/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Nivetha1701/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nivetha1701/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nivetha1701/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Nivetha1701/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nivetha1701/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nivetha1701/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
