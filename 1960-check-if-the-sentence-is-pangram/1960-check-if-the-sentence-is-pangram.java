@@ -9,6 +9,7 @@ class Solution {
                 if(ch==sentence.charAt(i))
                 {
                     found=true;
+                    break;
                 }
             }
             if(found==false)
