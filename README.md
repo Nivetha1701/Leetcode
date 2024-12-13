@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Nivetha1701/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Nivetha1701/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Nivetha1701/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2122-count-special-quadruplets](https://github.com/Nivetha1701/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Nivetha1701/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nivetha1701/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Nivetha1701/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Nivetha1701/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nivetha1701/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nivetha1701/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/Nivetha1701/Leetcode/tree/master/3194-find-words-containing-character) |
