@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nivetha1701/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/Nivetha1701/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Nivetha1701/Leetcode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/Nivetha1701/Leetcode/tree/master/3447-clear-digits) |
 ## Database
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nivetha1701/Leetcode/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/Nivetha1701/Leetcode/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Nivetha1701/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nivetha1701/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Nivetha1701/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3447-clear-digits](https://github.com/Nivetha1701/Leetcode/tree/master/3447-clear-digits) |
 ## Bucket Sort
 |  |
 | ------- |
