@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Nivetha1701/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nivetha1701/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Nivetha1701/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Nivetha1701/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nivetha1701/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nivetha1701/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nivetha1701/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Nivetha1701/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Nivetha1701/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Nivetha1701/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Simulation
 |  |
 | ------- |
