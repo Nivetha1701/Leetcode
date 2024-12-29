@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nivetha1701/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2122-count-special-quadruplets](https://github.com/Nivetha1701/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nivetha1701/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Nivetha1701/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Nivetha1701/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nivetha1701/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nivetha1701/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nivetha1701/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nivetha1701/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3194-find-words-containing-character](https://github.com/Nivetha1701/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Nivetha1701/Leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Nivetha1701/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Nivetha1701/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Nivetha1701/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Greedy
 |  |
 | ------- |
