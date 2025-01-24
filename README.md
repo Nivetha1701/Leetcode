@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Nivetha1701/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Nivetha1701/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nivetha1701/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Nivetha1701/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Nivetha1701/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nivetha1701/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Nivetha1701/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nivetha1701/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Nivetha1701/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nivetha1701/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nivetha1701/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Nivetha1701/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Nivetha1701/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
