@@ -5,15 +5,14 @@ class Solution {
         int max=0;
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
-            if(ch=='('){
+            if(ch=='(')
                 st.push(i);
-            } else{
+            else{
                 st.pop();
-                if(st.isEmpty()){
+                if(st.isEmpty())
                     st.push(i);
-                } else{
+                else
                     max=Math.max(max,i-st.peek());
-                }
             }
         }
         return max;
