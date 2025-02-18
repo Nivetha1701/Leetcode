@@ -5,8 +5,8 @@ class Solution {
         int res[]=new int[n];
         for(int i=0;i<n;i++){
             while(!stack.isEmpty() && temperatures[i]>temperatures[stack.peek()]){
-                int prev=stack.pop();
-                res[prev]=i-prev;
+                int index=stack.pop();
+                res[index]=i-index;
             }
             stack.push(i);
         }
