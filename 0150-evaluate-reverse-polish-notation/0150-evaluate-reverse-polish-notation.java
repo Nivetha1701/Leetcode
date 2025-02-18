@@ -12,14 +12,11 @@ class Solution {
                 int b=stack.pop();
                 int a=stack.pop();
 
-                if(token.equals("+")){
-                    stack.push(a+b);
-                } else if(token.equals("-")){
-                    stack.push(a-b);
-                } else if(token.equals("*")){
-                    stack.push(a*b);
-                } else if(token.equals("/")){
-                    stack.push(a/b);
+                switch(token){
+                case "+": stack.push(a+b); break;
+                case "-": stack.push(a-b); break;
+                case "*": stack.push(a*b); break;
+                case "/": stack.push(a/b); break;
                 }
             }
         }
