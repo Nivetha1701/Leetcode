@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nivetha1701/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nivetha1701/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/Nivetha1701/Leetcode/tree/master/0155-min-stack) |
 | [3447-clear-digits](https://github.com/Nivetha1701/Leetcode/tree/master/3447-clear-digits) |
 ## Array
 |  |
@@ -496,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/Nivetha1701/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Nivetha1701/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
