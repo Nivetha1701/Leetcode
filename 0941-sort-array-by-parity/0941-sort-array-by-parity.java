@@ -4,14 +4,12 @@ class Solution {
         int j=0;
         int ans[]=new int[n];
         for(int num:nums){
-            if(num%2==0){
+            if(num%2==0)
                 ans[j++]=num;
-            }
         }
         for(int num:nums){
-            if(num%2!=0){
+            if(num%2!=0)
                 ans[j++]=num;
-            }
         }
         return ans;
         // ArrayList<Integer> even=new ArrayList<>();
