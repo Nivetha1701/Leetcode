@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Nivetha1701/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0898-transpose-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Nivetha1701/Leetcode/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/Nivetha1701/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/Nivetha1701/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Nivetha1701/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Nivetha1701/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/Nivetha1701/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Nivetha1701/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Nivetha1701/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0808-number-of-matching-subsequences](https://github.com/Nivetha1701/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0941-sort-array-by-parity](https://github.com/Nivetha1701/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
