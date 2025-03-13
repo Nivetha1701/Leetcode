@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nivetha1701/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Nivetha1701/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Nivetha1701/Leetcode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nivetha1701/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nivetha1701/Leetcode/tree/master/0575-distribute-candies) |
 | [0808-number-of-matching-subsequences](https://github.com/Nivetha1701/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nivetha1701/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Nivetha1701/Leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Nivetha1701/Leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Nivetha1701/Leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Nivetha1701/Leetcode/tree/master/0485-max-consecutive-ones) |
