@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Nivetha1701/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nivetha1701/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nivetha1701/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Nivetha1701/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Nivetha1701/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Nivetha1701/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nivetha1701/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Nivetha1701/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nivetha1701/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Nivetha1701/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Nivetha1701/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nivetha1701/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -567,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Nivetha1701/Leetcode/tree/master/0456-132-pattern) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nivetha1701/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
