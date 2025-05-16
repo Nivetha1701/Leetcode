@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nivetha1701/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Nivetha1701/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Nivetha1701/Leetcode/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/Nivetha1701/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Nivetha1701/Leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/0742-to-lower-case) |
 | [0808-number-of-matching-subsequences](https://github.com/Nivetha1701/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -594,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nivetha1701/Leetcode/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Nivetha1701/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
