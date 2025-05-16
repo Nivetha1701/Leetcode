@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/0742-to-lower-case) |
 | [0808-number-of-matching-subsequences](https://github.com/Nivetha1701/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nivetha1701/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nivetha1701/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1205-defanging-an-ip-address](https://github.com/Nivetha1701/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Nivetha1701/Leetcode/tree/master/1260-day-of-the-year) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Nivetha1701/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/Nivetha1701/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Nivetha1701/Leetcode/tree/master/0739-daily-temperatures) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nivetha1701/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3447-clear-digits](https://github.com/Nivetha1701/Leetcode/tree/master/3447-clear-digits) |
 ## Array
 |  |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nivetha1701/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Nivetha1701/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nivetha1701/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Nivetha1701/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/Nivetha1701/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Nivetha1701/Leetcode/tree/master/0739-daily-temperatures) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nivetha1701/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Data Stream
 |  |
 | ------- |
