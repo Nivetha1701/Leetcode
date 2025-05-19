@@ -9,15 +9,28 @@ class Solution {
                     rank++;
                 }
             }
-            if(rank==1){
-                result[i]="Gold Medal";
-            } else if(rank==2){
-                result[i]="Silver Medal";
-            } else if(rank==3){
-                result[i]="Bronze Medal";
-            } else{
-                result[i]=String.valueOf(rank);
+            switch(rank){
+                case 1:
+                    result[i]="Gold Medal";
+                    break;
+                case 2:
+                    result[i]="Silver Medal";
+                    break;
+                case 3:
+                    result[i]="Bronze Medal";
+                    break;
+                default:
+                    result[i]=Integer.toString(rank);
             }
+            // if(rank==1){
+            //     result[i]="Gold Medal";
+            // } else if(rank==2){
+            //     result[i]="Silver Medal";
+            // } else if(rank==3){
+            //     result[i]="Bronze Medal";
+            // } else{
+            //     result[i]=String.valueOf(rank);
+            // }
         }
         return result;
     }
