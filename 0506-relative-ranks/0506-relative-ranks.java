@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<n;i++){
             int rank=1;
             for(int j=0;j<n;j++){
-                if(score[j]>score[i]){
+                if(i!=j && score[j]>score[i]){
                     rank++;
                 }
             }
