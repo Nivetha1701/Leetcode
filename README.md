@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Nivetha1701/Leetcode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/Nivetha1701/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Nivetha1701/Leetcode/tree/master/0184-department-highest-salary) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Nivetha1701/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0626-exchange-seats](https://github.com/Nivetha1701/Leetcode/tree/master/0626-exchange-seats) |
 | [1179-game-play-analysis-i](https://github.com/Nivetha1701/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1268-market-analysis-i](https://github.com/Nivetha1701/Leetcode/tree/master/1268-market-analysis-i) |
