@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Nivetha1701/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Nivetha1701/Leetcode/tree/master/1260-day-of-the-year) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Nivetha1701/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nivetha1701/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nivetha1701/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nivetha1701/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Nivetha1701/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Nivetha1701/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Counting
 |  |
 | ------- |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Nivetha1701/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Nivetha1701/Leetcode/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/Nivetha1701/Leetcode/tree/master/1086-divisor-game) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Nivetha1701/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
@@ -638,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Nivetha1701/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/Nivetha1701/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
