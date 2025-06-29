@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/Nivetha1701/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nivetha1701/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nivetha1701/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Nivetha1701/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nivetha1701/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nivetha1701/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nivetha1701/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nivetha1701/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nivetha1701/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Nivetha1701/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nivetha1701/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nivetha1701/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Nivetha1701/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Nivetha1701/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Linked List
 |  |
 | ------- |
