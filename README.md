@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Nivetha1701/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Nivetha1701/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nivetha1701/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Nivetha1701/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nivetha1701/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nivetha1701/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Nivetha1701/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3447-clear-digits](https://github.com/Nivetha1701/Leetcode/tree/master/3447-clear-digits) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Nivetha1701/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Nivetha1701/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Nivetha1701/Leetcode/tree/master/1086-divisor-game) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Nivetha1701/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Backtracking
 |  |
 | ------- |
