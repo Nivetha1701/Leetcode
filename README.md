@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Nivetha1701/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Nivetha1701/Leetcode/tree/master/1086-divisor-game) |
+| [1115-valid-boomerang](https://github.com/Nivetha1701/Leetcode/tree/master/1115-valid-boomerang) |
 | [1236-n-th-tribonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Nivetha1701/Leetcode/tree/master/1260-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/Nivetha1701/Leetcode/tree/master/1289-day-of-the-week) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/Nivetha1701/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nivetha1701/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1115-valid-boomerang](https://github.com/Nivetha1701/Leetcode/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/Nivetha1701/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Nivetha1701/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nivetha1701/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -689,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/Nivetha1701/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/Nivetha1701/Leetcode/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
