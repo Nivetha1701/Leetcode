@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/Nivetha1701/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nivetha1701/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nivetha1701/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nivetha1701/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nivetha1701/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1585-the-kth-factor-of-n](https://github.com/Nivetha1701/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Nivetha1701/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nivetha1701/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nivetha1701/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nivetha1701/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
