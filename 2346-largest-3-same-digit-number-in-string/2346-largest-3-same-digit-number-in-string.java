@@ -9,8 +9,7 @@ class Solution {
                 }
             }
         }
-        String res= ""+max+max+max;
-        return max==0 ? "" : res;
+        return max==0 ? "" : ""+max+max+max;
 
         // String max="";
         // for(int i=0;i<=num.length()-3;i++){
