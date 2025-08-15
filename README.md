@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nivetha1701/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nivetha1701/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nivetha1701/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Nivetha1701/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Nivetha1701/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Nivetha1701/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Nivetha1701/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nivetha1701/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Nivetha1701/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nivetha1701/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/Nivetha1701/Leetcode/tree/master/0165-compare-version-numbers) |
