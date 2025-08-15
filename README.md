@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Nivetha1701/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Nivetha1701/Leetcode/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/Nivetha1701/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Nivetha1701/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Nivetha1701/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nivetha1701/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nivetha1701/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nivetha1701/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Nivetha1701/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Nivetha1701/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Nivetha1701/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Nivetha1701/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nivetha1701/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Nivetha1701/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nivetha1701/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nivetha1701/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Nivetha1701/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nivetha1701/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
