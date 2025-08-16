@@ -11,7 +11,6 @@ class Solution {
                 ans+=s.charAt(i);
             }
         }
-        int res=Integer.parseInt(ans);
-        return res;
+        return Integer.parseInt(ans);
     }
 }
