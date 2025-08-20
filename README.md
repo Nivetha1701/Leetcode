@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Nivetha1701/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Nivetha1701/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nivetha1701/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Nivetha1701/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nivetha1701/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nivetha1701/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Nivetha1701/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0898-transpose-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Nivetha1701/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Nivetha1701/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Nivetha1701/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Nivetha1701/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Nivetha1701/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Counting
 |  |
 | ------- |
