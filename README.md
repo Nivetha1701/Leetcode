@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Nivetha1701/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nivetha1701/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Nivetha1701/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Nivetha1701/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0867-new-21-game](https://github.com/Nivetha1701/Leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Nivetha1701/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Nivetha1701/Leetcode/tree/master/1086-divisor-game) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Nivetha1701/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Nivetha1701/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Nivetha1701/Leetcode/tree/master/0645-set-mismatch) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Nivetha1701/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/Nivetha1701/Leetcode/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/Nivetha1701/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nivetha1701/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
