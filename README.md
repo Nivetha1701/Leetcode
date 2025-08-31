@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/Nivetha1701/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/Nivetha1701/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Nivetha1701/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2998-count-symmetric-integers](https://github.com/Nivetha1701/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Nivetha1701/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Nivetha1701/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nivetha1701/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Nivetha1701/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nivetha1701/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nivetha1701/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2998-count-symmetric-integers](https://github.com/Nivetha1701/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Nivetha1701/Leetcode/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
