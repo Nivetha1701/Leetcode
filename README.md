@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Nivetha1701/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2634-minimum-common-value](https://github.com/Nivetha1701/Leetcode/tree/master/2634-minimum-common-value) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Nivetha1701/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Nivetha1701/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Nivetha1701/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nivetha1701/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nivetha1701/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nivetha1701/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Nivetha1701/Leetcode/tree/master/2634-minimum-common-value) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Nivetha1701/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Nivetha1701/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2714-left-and-right-sum-differences](https://github.com/Nivetha1701/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Nivetha1701/Leetcode/tree/master/2722-prime-in-diagonal) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Nivetha1701/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Nivetha1701/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nivetha1701/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Nivetha1701/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nivetha1701/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/Nivetha1701/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Nivetha1701/Leetcode/tree/master/3221-find-the-peaks) |
