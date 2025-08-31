@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Nivetha1701/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nivetha1701/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Nivetha1701/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3221-find-the-peaks](https://github.com/Nivetha1701/Leetcode/tree/master/3221-find-the-peaks) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Nivetha1701/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nivetha1701/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Nivetha1701/Leetcode/tree/master/3321-type-of-triangle) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Nivetha1701/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nivetha1701/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nivetha1701/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3221-find-the-peaks](https://github.com/Nivetha1701/Leetcode/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
 | ------- |
