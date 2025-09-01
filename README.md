@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Nivetha1701/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Nivetha1701/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Nivetha1701/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/Nivetha1701/Leetcode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Nivetha1701/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nivetha1701/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1755-defuse-the-bomb](https://github.com/Nivetha1701/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Nivetha1701/Leetcode/tree/master/0204-count-primes) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1656-count-good-triplets](https://github.com/Nivetha1701/Leetcode/tree/master/1656-count-good-triplets) |
 | [2037-count-square-sum-triples](https://github.com/Nivetha1701/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Nivetha1701/Leetcode/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Nivetha1701/Leetcode/tree/master/2122-count-special-quadruplets) |
