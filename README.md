@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nivetha1701/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nivetha1701/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nivetha1701/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Nivetha1701/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Nivetha1701/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2886-faulty-keyboard](https://github.com/Nivetha1701/Leetcode/tree/master/2886-faulty-keyboard) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nivetha1701/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nivetha1701/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nivetha1701/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Nivetha1701/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nivetha1701/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nivetha1701/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
