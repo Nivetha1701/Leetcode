@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Nivetha1701/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1524-string-matching-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nivetha1701/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Nivetha1701/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nivetha1701/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Nivetha1701/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Nivetha1701/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nivetha1701/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nivetha1701/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nivetha1701/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nivetha1701/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Nivetha1701/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Nivetha1701/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nivetha1701/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nivetha1701/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Probability and Statistics
 |  |
