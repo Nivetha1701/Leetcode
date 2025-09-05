@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Nivetha1701/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/Nivetha1701/Leetcode/tree/master/1044-find-common-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Nivetha1701/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1319-unique-number-of-occurrences](https://github.com/Nivetha1701/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/Nivetha1701/Leetcode/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/Nivetha1701/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Nivetha1701/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1319-unique-number-of-occurrences](https://github.com/Nivetha1701/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nivetha1701/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nivetha1701/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nivetha1701/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
