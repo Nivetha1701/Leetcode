@@ -1,12 +1,14 @@
 class Solution {
     public int[] sumZero(int n) {
-        int sum=0;
         int res[]=new int[n];
-        for(int i=0;i<n-1;i++){
-            res[i]=i+1;
-            sum+=res[i];
+        int index=0;
+        for(int i=1;i<=n/2;i++){
+            res[index++]=i;
+            res[index++]=-i;
         }
-        res[n-1]=-sum;
+        if(n%2==1){
+            res[index]=0;
+        }
         return res;
     }
 }
