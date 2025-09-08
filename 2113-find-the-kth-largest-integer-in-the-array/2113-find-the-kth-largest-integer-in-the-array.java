@@ -7,6 +7,7 @@ class Solution {
             res[i]=new BigInteger(nums[i]);
          }
          Arrays.sort(res);
-         return String.valueOf(res[n-k]);
+        //  return String.valueOf(res[n-k]);
+        return res[n-k].toString();
     }
 }
