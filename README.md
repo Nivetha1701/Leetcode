@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nivetha1701/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Nivetha1701/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/Nivetha1701/Leetcode/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/Nivetha1701/Leetcode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Nivetha1701/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Nivetha1701/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nivetha1701/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1115-valid-boomerang](https://github.com/Nivetha1701/Leetcode/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/Nivetha1701/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1217-relative-sort-array](https://github.com/Nivetha1701/Leetcode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Nivetha1701/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/Nivetha1701/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nivetha1701/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1217-relative-sort-array](https://github.com/Nivetha1701/Leetcode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nivetha1701/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Nivetha1701/Leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Nivetha1701/Leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Nivetha1701/Leetcode/tree/master/1217-relative-sort-array) |
 ## Enumeration
 |  |
 | ------- |
