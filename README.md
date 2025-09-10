@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Nivetha1701/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Nivetha1701/Leetcode/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/Nivetha1701/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Nivetha1701/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1524-string-matching-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nivetha1701/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Nivetha1701/Leetcode/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nivetha1701/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Nivetha1701/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Nivetha1701/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Nivetha1701/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Nivetha1701/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Nivetha1701/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/Nivetha1701/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nivetha1701/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Nivetha1701/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Nivetha1701/Leetcode/tree/master/1448-maximum-69-number) |
 ## Sliding Window
 |  |
