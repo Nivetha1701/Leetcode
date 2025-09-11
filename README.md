@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nivetha1701/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nivetha1701/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Nivetha1701/Leetcode/tree/master/0645-set-mismatch) |
+| [0782-jewels-and-stones](https://github.com/Nivetha1701/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/Nivetha1701/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/Nivetha1701/Leetcode/tree/master/0816-design-hashset) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nivetha1701/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nivetha1701/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Nivetha1701/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/Nivetha1701/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/Nivetha1701/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/Nivetha1701/Leetcode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Nivetha1701/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
