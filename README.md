@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nivetha1701/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nivetha1701/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nivetha1701/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nivetha1701/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/Nivetha1701/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nivetha1701/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Nivetha1701/Leetcode/tree/master/3447-clear-digits) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nivetha1701/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
 | ------- |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/Nivetha1701/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nivetha1701/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nivetha1701/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Greedy
 |  |
