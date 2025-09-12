@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Nivetha1701/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Nivetha1701/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nivetha1701/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2447-merge-similar-items](https://github.com/Nivetha1701/Leetcode/tree/master/2447-merge-similar-items) |
 | [2486-most-frequent-even-element](https://github.com/Nivetha1701/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nivetha1701/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2634-minimum-common-value](https://github.com/Nivetha1701/Leetcode/tree/master/2634-minimum-common-value) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nivetha1701/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nivetha1701/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2447-merge-similar-items](https://github.com/Nivetha1701/Leetcode/tree/master/2447-merge-similar-items) |
 | [2486-most-frequent-even-element](https://github.com/Nivetha1701/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Nivetha1701/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nivetha1701/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nivetha1701/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Nivetha1701/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nivetha1701/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2447-merge-similar-items](https://github.com/Nivetha1701/Leetcode/tree/master/2447-merge-similar-items) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nivetha1701/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nivetha1701/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/Nivetha1701/Leetcode/tree/master/3321-type-of-triangle) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Nivetha1701/Leetcode/tree/master/0456-132-pattern) |
+| [2447-merge-similar-items](https://github.com/Nivetha1701/Leetcode/tree/master/2447-merge-similar-items) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nivetha1701/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Combinatorics
 |  |
