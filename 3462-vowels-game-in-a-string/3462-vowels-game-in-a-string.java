@@ -1,8 +1,7 @@
 class Solution {
     public boolean doesAliceWin(String s) {
         int count=0;
-        for(int i=0;i<s.length();i++){
-            char c=s.charAt(i);
+        for(char c:s.toCharArray()){
             if(isVowel(c)){
                 count++;
             }
