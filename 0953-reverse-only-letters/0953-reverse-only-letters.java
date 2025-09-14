@@ -8,13 +8,13 @@ class Solution {
         }
         String str=sb.reverse().toString();
         int index=0;
-        String res="";
+        StringBuilder res=new StringBuilder();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             if(Character.isLetter(ch)){
-                res+=str.charAt(index++);
+                res.append(str.charAt(index++));
             } else{
-                res+=ch;
+                res.append(ch);
             }
         }
         return res.toString();
