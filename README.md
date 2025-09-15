@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Nivetha1701/Leetcode/tree/master/0816-design-hashset) |
 | [0841-shortest-distance-to-a-character](https://github.com/Nivetha1701/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Nivetha1701/Leetcode/tree/master/0861-flipping-an-image) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Nivetha1701/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Nivetha1701/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Nivetha1701/Leetcode/tree/master/0932-monotonic-array) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Nivetha1701/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Nivetha1701/Leetcode/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Nivetha1701/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Nivetha1701/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nivetha1701/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nivetha1701/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
