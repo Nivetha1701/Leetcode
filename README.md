@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/Nivetha1701/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Nivetha1701/Leetcode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Nivetha1701/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Nivetha1701/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nivetha1701/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
