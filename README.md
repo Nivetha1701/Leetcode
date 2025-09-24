@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Nivetha1701/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Nivetha1701/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Nivetha1701/Leetcode/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nivetha1701/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/Nivetha1701/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Nivetha1701/Leetcode/tree/master/0507-perfect-number) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Nivetha1701/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nivetha1701/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Nivetha1701/Leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Nivetha1701/Leetcode/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
