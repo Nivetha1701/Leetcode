@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/Nivetha1701/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nivetha1701/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Nivetha1701/Leetcode/tree/master/3447-clear-digits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Nivetha1701/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/Nivetha1701/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Nivetha1701/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nivetha1701/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nivetha1701/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nivetha1701/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nivetha1701/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Nivetha1701/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
 |  |
 | ------- |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Nivetha1701/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0052-n-queens-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nivetha1701/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Nivetha1701/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
 | ------- |
