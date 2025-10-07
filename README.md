@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Nivetha1701/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Nivetha1701/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nivetha1701/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Nivetha1701/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Nivetha1701/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nivetha1701/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nivetha1701/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/Nivetha1701/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nivetha1701/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nivetha1701/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Nivetha1701/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/Nivetha1701/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/Nivetha1701/Leetcode/tree/master/3221-find-the-peaks) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Nivetha1701/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Nivetha1701/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nivetha1701/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nivetha1701/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Nivetha1701/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nivetha1701/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Nivetha1701/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Nivetha1701/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/Nivetha1701/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Nivetha1701/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Nivetha1701/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -903,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nivetha1701/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0808-number-of-matching-subsequences](https://github.com/Nivetha1701/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Nivetha1701/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nivetha1701/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Design
 |  |
