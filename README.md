@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1547-destination-city](https://github.com/Nivetha1701/Leetcode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/Nivetha1701/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Nivetha1701/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1873-longest-nice-substring](https://github.com/Nivetha1701/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nivetha1701/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1524-string-matching-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1547-destination-city](https://github.com/Nivetha1701/Leetcode/tree/master/1547-destination-city) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nivetha1701/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Nivetha1701/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1873-longest-nice-substring](https://github.com/Nivetha1701/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nivetha1701/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1547-destination-city](https://github.com/Nivetha1701/Leetcode/tree/master/1547-destination-city) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Nivetha1701/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Nivetha1701/Leetcode/tree/master/1580-shuffle-the-array) |
