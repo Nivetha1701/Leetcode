@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Nivetha1701/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1873-longest-nice-substring](https://github.com/Nivetha1701/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Nivetha1701/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/Nivetha1701/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nivetha1701/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Nivetha1701/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2122-count-special-quadruplets](https://github.com/Nivetha1701/Leetcode/tree/master/2122-count-special-quadruplets) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Nivetha1701/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1873-longest-nice-substring](https://github.com/Nivetha1701/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Nivetha1701/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/Nivetha1701/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nivetha1701/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Nivetha1701/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nivetha1701/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
