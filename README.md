@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nivetha1701/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/Nivetha1701/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Nivetha1701/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nivetha1701/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nivetha1701/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/Nivetha1701/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nivetha1701/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nivetha1701/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nivetha1701/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1524-string-matching-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/Nivetha1701/Leetcode/tree/master/1547-destination-city) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Nivetha1701/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nivetha1701/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nivetha1701/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nivetha1701/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nivetha1701/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nivetha1701/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nivetha1701/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Nivetha1701/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Nivetha1701/Leetcode/tree/master/1217-relative-sort-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nivetha1701/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nivetha1701/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nivetha1701/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
