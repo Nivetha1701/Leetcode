@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nivetha1701/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nivetha1701/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Nivetha1701/Leetcode/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/Nivetha1701/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/Nivetha1701/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/Nivetha1701/Leetcode/tree/master/0816-design-hashset) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Nivetha1701/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Nivetha1701/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Nivetha1701/Leetcode/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Nivetha1701/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Nivetha1701/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nivetha1701/Leetcode/tree/master/0739-daily-temperatures) |
