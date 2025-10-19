@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Nivetha1701/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Nivetha1701/Leetcode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Nivetha1701/Leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Nivetha1701/Leetcode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Nivetha1701/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Nivetha1701/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nivetha1701/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Nivetha1701/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Nivetha1701/Leetcode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Nivetha1701/Leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Nivetha1701/Leetcode/tree/master/0392-is-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/Nivetha1701/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0867-new-21-game](https://github.com/Nivetha1701/Leetcode/tree/master/0867-new-21-game) |
