@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nivetha1701/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/Nivetha1701/Leetcode/tree/master/1547-destination-city) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Nivetha1701/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Nivetha1701/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Nivetha1701/Leetcode/tree/master/1580-shuffle-the-array) |
