@@ -3,20 +3,18 @@ class Solution {
         
         int first=-1;
         int last=-1;
+        boolean found1=false;
+        boolean found2=false;
         for(int i=0;i<nums.length;i++)
         {
-            if(nums[i]==target)
+            if(nums[i]==target && found1==false)
             {
                 first=i;
-                break;
+                found1=true;
             }
-        }
-        for(int i=nums.length-1;i>=0;i--)
-        {
-            if(nums[i]==target)
-            {
-                last=i;
-                break;
+            if(nums[nums.length-i-1]==target && found2==false){
+                last=nums.length-i-1;
+                found2=true;
             }
         }
         return new int[]{first,last};
