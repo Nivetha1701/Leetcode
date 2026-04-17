@@ -8,11 +8,11 @@ class Solution {
         if(arr[0].equals("0")){
             return "0";
         }
-        // StringBuilder str=new StringBuilder();
-        // for(String num:arr){
-        //     str.append(num);
-        // }
-        // return str.toString(); or->
-        return String.join("",arr);
+        StringBuilder str=new StringBuilder();
+        for(String num:arr){
+            str.append(num);
+        }
+        return str.toString();  // or->
+        //return String.join("",arr);
     }
 }
