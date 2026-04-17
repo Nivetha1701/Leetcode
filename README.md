@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Nivetha1701/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Nivetha1701/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Nivetha1701/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nivetha1701/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Nivetha1701/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nivetha1701/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Nivetha1701/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Nivetha1701/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Nivetha1701/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Nivetha1701/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Nivetha1701/Leetcode/tree/master/0198-house-robber) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nivetha1701/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nivetha1701/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Nivetha1701/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Nivetha1701/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Nivetha1701/Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nivetha1701/Leetcode/tree/master/0242-valid-anagram) |
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Nivetha1701/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Nivetha1701/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Nivetha1701/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Nivetha1701/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Nivetha1701/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nivetha1701/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/Nivetha1701/Leetcode/tree/master/0948-sort-an-array) |
@@ -756,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nivetha1701/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nivetha1701/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Nivetha1701/Leetcode/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nivetha1701/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
