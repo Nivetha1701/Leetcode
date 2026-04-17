@@ -11,8 +11,8 @@ class Solution {
         //     }
         // }
         // return -1;
-
+        int n=nums.length;
         Arrays.sort(nums);
-        return nums[nums.length/2];
+        return nums[n/2];
     }
 }
