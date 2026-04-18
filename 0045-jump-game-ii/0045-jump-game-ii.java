@@ -1,21 +1,14 @@
 class Solution {
     public int jump(int[] nums) {
-        int count=0;
-        int goal=nums.length-1;
-        int min=-2;
-        while(min!=0 && min!=-1 && nums.length!=1)
-        {
-            min=-1;
-            count++;
-            for(int i=goal-1;i>-1;i--)
-            {
-                if(i+nums[i]>=goal)
-                {
-                    min=i;
-                }
+        int goal=0;
+        int end=0,jumps=0;
+        for(int i=0;i<nums.length-1;i++){
+            goal=Math.max(goal,i+nums[i]);
+            if(i==end){
+                jumps++;
+                end=goal;
             }
-            goal=min;
         }
-        return count;
+        return jumps;
     }
 }
