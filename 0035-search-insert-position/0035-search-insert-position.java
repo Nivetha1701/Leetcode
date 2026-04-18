@@ -1,23 +1,15 @@
-class Solution 
-{
-    public int searchInsert(int[] nums, int target) 
-    {
-        int index=0;
-        for(int i=0;i<nums.length;i++)
-        {
-            if(nums[i]==target)
-            {
+class Solution {
+    public int searchInsert(int[] nums, int target) {
+        int index=-1;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==target){
+                return i;
+            }
+            if(nums[i]>target){
                 index=i;
                 break;
-            }
-            else if(nums[i]>target)
-            {
-                index=i;
-                break;
-            }
-            else 
-            {
-                index=i+1;
+            } else{
+                index=nums.length;
             }
         }
         return index;
