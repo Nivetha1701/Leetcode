@@ -8,7 +8,7 @@ class Solution {
             }
             digits[i]=0;
         }
-        int res[]=new int[digits.length+1];
+        int res[]=new int[n+1];
         res[0]=1;
         return res;
     }
