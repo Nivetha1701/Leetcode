@@ -5,7 +5,7 @@ class Solution {
             if(nums[i]==target && first==-1){
                 first=i;
             }
-            if(nums[i]==target){
+            if(nums[i]==target && first!=-1){
                 last=i;
             }
         }
