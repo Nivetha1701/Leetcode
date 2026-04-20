@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Nivetha1701/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2048-build-array-from-permutation](https://github.com/Nivetha1701/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Nivetha1701/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Nivetha1701/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nivetha1701/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nivetha1701/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Nivetha1701/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nivetha1701/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nivetha1701/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Nivetha1701/Leetcode/tree/master/1448-maximum-69-number) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Nivetha1701/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nivetha1701/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
